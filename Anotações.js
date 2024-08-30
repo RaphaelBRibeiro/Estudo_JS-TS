@@ -44,3 +44,16 @@ console.log (Empresa);
 var Empresa = 'Mancer';
 console.log (Empresa);
 
+// tipos de dados primitivos 
+/*
+Constantes: é preciso ser definida assim que criada e não pode ser alterada após criada
+Const Nome = 'Luiz'; String
+Const Num = 10; Number
+Const Num2 = 10.5; Number
+const aprovado = true; Boolean = true ou false (lógico)
+
+Variaves - Let: ela pode ser criada e depois definida, pode ser alterada após definida. se for criada mas n definida recebe o valor de Undefind (Indefinido)
+let Aluno = ; Undefined -> não aponta pra local nenhum na memoria
+let sobrenome = null; null -> não aponta pra local nenhum na memoria
+
+*/ 
