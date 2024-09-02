@@ -55,5 +55,28 @@ const aprovado = true; Boolean = true ou false (lógico)
 Variaves - Let: ela pode ser criada e depois definida, pode ser alterada após definida. se for criada mas n definida recebe o valor de Undefind (Indefinido)
 let Aluno = ; Undefined -> não aponta pra local nenhum na memoria
 let sobrenome = null; null -> não aponta pra local nenhum na memoria
-
 */ 
+
+/*OPERADORES ARITMÉTICOS
+    + Adiçao / Concatenação
+    - Subtração 
+    * Multiplicação
+    / Divisão 
+    ** Potencia 
+    % Resto da Divição
+
+    Ordem de Presedencia: ()  ** (* / %) (+ -)  
+++ Operador de incremento 
+-- Operador de Decremento 
+
+possivel erro 
+NaN = Not a Number 
+*/
+const numb01 = 2;
+const numb02 =  parseInt('10');
+
+console.log (numb01 + numb02);
+
+// O parseInt tranfomar o numero (como string) para um tipo inteiro para que consigo ser feito a operação
+
+
