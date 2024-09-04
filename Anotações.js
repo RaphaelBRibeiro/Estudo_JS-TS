@@ -80,3 +80,9 @@ console.log (numb01 + numb02);
 // O parseInt tranfomar o numero (como string) para um tipo inteiro para que consigo ser feito a operação
 
 
+// formas de utilizar a concatenação:
+//let novotexto = ('um novo texto');
+//console.log (novotexto + 'de um novo dia!');
+//console.log (novotexto.concat('de um novo dia!'));
+//console.log (`${novotexto} de um novo dia!`);
+
